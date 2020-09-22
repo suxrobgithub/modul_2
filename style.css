@@ -55,8 +55,8 @@
 }
 
 @media (min-width: 100px) and (max-width: 949px) {
-    .col-sm-8 {
+    .col-md-8 {
         float: left;
-        width: 80%;
+        width: 95%;
     }
 }
